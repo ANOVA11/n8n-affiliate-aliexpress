@@ -1,0 +1,9 @@
+{
+  "name": "custom-n8n",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "n8n-nodes-aliexpress-affiliate": "*"
+  }
+}
