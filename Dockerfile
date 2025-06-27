@@ -11,3 +11,4 @@ ENV N8N_CUSTOM_EXTENSIONS="/home/node/.n8n/custom"
 
 # تشغيل n8n
 CMD ["n8n", "start"]
+
